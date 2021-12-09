@@ -1,2 +1,0 @@
-# MyProject2
-Induration
